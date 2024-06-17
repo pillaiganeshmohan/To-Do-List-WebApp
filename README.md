@@ -25,3 +25,9 @@ With our To-Do-List Web Application, you can enhance your productivity and stay 
 ![3](https://github.com/pillaiganeshmohan/To-Do-List-WebApp/assets/68379838/36ad2a27-82b9-4ef1-bb3d-e007c212b669)
 
 ![4](https://github.com/pillaiganeshmohan/To-Do-List-WebApp/assets/68379838/dd58e360-f91b-46d4-b779-ddd561d226cd)
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the **Apache-2.0 License**. See the [LICENSE](./LICENSE) file for details.
